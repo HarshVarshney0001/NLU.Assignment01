@@ -1,5 +1,7 @@
 # NLU.Assignment01
 Text classification of Indian news articles into Sports and Politics using traditional machine learning techniques and TF-IDF based features.
+
+
 🔹 Problem Overview
 
 The goal of this task is to build a machine learning based system that can automatically classify Indian news articles into two categories: Sports and Politics. The project focuses on understanding how traditional machine learning models work for text classification problems.
@@ -45,8 +47,11 @@ Linear Support Vector Machine (SVM): Finds an optimal separating boundary betwee
 The models are evaluated using accuracy, precision, recall, and F1-score.
 
 Model	Accuracy
+
 Naive Bayes	78.75%
+
 Logistic Regression	88.12%
+
 Linear SVM	88.12%
 
 Logistic Regression and Linear SVM improve accuracy by nearly 10% compared to Naive Bayes and show more balanced performance across both classes.
